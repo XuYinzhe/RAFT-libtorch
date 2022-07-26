@@ -1,0 +1,14 @@
+%YAML:1.0
+
+model_path: "../../weights/kitti.pt"
+
+
+segmentor_log_path: "segmentor_log.txt"
+segmentor_log_level: "debug"
+segmentor_log_flush: "debug"
+
+DATASET_DIR: "D:\\AA_CourseFile\\2021SummerIntern\\RAFT\\RAFT_Libtorch\\demo\\kitti07"
+#DATASET_DIR: "/home/chen/CLionProjects/RAFT_CPP/demo/kitti07/"
+WARN_UP_IMAGE_PATH: "D:\\AA_CourseFile\\2021SummerIntern\\RAFT\\RAFT_Libtorch\\demo\\kitti07\\000000.png"
+
+
